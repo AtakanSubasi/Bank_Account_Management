@@ -62,8 +62,11 @@ The balance will update automatically.
 📂 File Structure
 
 📁 banking_app/
+
  ├── bank_account.json  # Stores user account data
+ 
  ├── Bank_Account_Management.py  # Main application script
+ 
  ├── README.md  # Documentation file
 
 ⚡ Future Improvements
