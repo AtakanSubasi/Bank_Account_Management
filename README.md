@@ -5,18 +5,23 @@ A simple banking application built with Python and Tkinter. This application all
 📌 Features
 
 ✅ User registration (Create a new bank account)
+
 ✅ Secure login system
+
 ✅ Deposit money
+
 ✅ Withdraw money
+
 ✅ Display account balance
+
 ✅ Data stored in a JSON file for persistence
 
 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/AtakanSubasi/Bank_Account_Management.py.git
-cd banking_app
+(https://github.com/AtakanSubasi/Bank_Account_Management/blob/main/Bank_Account_Management.py)
+cd Bank_Account_Management.py
 
 2️⃣ Install Dependencies
 
